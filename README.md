@@ -1,5 +1,7 @@
 # Blogster
 
+### This has been stripped down for the global perspectives module.
+
 Theme: **minimal**
 
 Blogster is a collection of beautiful, accessible and performant blog templates built with [Astro](https://astro.build) and [Markdoc](https://markdoc.dev).
