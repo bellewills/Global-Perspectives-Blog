@@ -1,6 +1,6 @@
 ---
 external: false
-title: "Group Meeting Notes #1" #<--- replace the title for each presentation
+title: "Group Meeting: Notes #1" #<--- replace the title for each presentation
 date: 2022-11-02 #<--- replace the date
 
 # For each group meeting, complete the sections below.

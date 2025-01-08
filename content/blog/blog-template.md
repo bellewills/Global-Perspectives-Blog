@@ -1,6 +1,6 @@
 ---
 external: false
-title: "Blog Template" #<--- replace the title for each presentation
+title: "Talk: Blog Template" #<--- replace the title for each presentation
 date: 2022-11-02 #<--- replace the date
 
 # For each guest lecture you attended, please write a MINIMUM of 2 to 3 sentences for each of the sections. You might find some sections require more words than others.
