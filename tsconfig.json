@@ -1,8 +1,10 @@
 {
-  "extends": "astro/tsconfigs/strict",
+  "extends": "./node_modules/astro/tsconfigs/strict.json",
   "display": "theme/minimal",
   "compilerOptions": {
     "types": ["astro/client"],
-    "baseUrl": "."
+    "baseUrl": ".",
+    "verbatimModuleSyntax": true, // Add this line
+    "importsNotUsedAsValues": "remove" // Explicitly set this to avoid errors - as kept getting error: option "importsnotusedasvalue has been removed
   }
 }
