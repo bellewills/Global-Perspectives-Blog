@@ -6,7 +6,7 @@ date: 2025-02-25
 ---
 
 #### Brief Summary of the Talk 
-Mirim Sturdee’s talk was a creative whirlwind, weaving together design innovation, human-computer interaction (HCI), and sustainability in sketching. She explored design fiction—the use of storytelling and prototyping to anticipate future risks—and shared hypothetical scenarios like a robot pet being hacked. She introduced shape-changing interfaces, cybersecurity concepts through physical human attributes, and even creative uses of PowerPoint as interactive games. While the ideas felt playful and provocative, I left questioning how much of it extended beyond the sketchpad. The talk sparked my imagination but also made me restless for more concrete outcomes.
+Mirim Sturdee’s talk was a total creative whirlwind—she brought together design innovation, HCI, and sustainability through sketching in such a playful way. Strudee talked about design fiction, using storytelling and prototyping to imagine future risks, and shared wild scenarios like a robot pet getting hacked. There were shape-shifting interfaces, cybersecurity tied to human features, and even interactive games made with PowerPoint. It was all really imaginative and fun, but I couldn’t help wondering how much of it actually moves beyond the sketchpad. The talk definitely fired up my imagination, but I also came away feeling a bit restless like I wanted to see more real-world follow-through.
 
 #### 1) What was the most surprising or thought-provoking idea from the talk?
 The most surprising idea was the reminder that AI isn’t truly intelligent—it lacks consciousness or general understanding. I’ve heard this before, but the way Sturdee framed it, embedded in creative design and speculative fiction, brought it into sharper focus. It left me feeling both deflated and driven. On one hand, it disappointed me—AI isn’t as advanced as I sometimes hope it is. But on the other, it ignited something deeper. If AI is still limited, then there’s room to push those boundaries, and that excites me.
@@ -23,18 +23,18 @@ I did appreciate when someone asked about shape-changing nanobots in healthcare,
 In future, I plan to explore this further by looking at work like Blythe et al. (2016), who examine how speculative design can transition into working prototypes through user engagement.
 
 #### 3) What made you optimisitc about the future from this talk?
-The sheer creativity of the ideas gave me glimpses of optimism. The possibility of nanobots cleaning oceans or targeted drug delivery systems felt hopeful. These were small visions of big change, and they reminded me that imagination fuels progress.
+The creativity behind some of the ideas gave me these little bursts of optimism. Stuff like nanobots cleaning up the oceans or being used for targeted drug delivery actually felt kind of hopeful. They were small glimpses of big change and it reminded me that imagination is often what pushes progress forward in the first place.
 
-But my optimism felt tempered. Hope is one thing—implementation is another. I realised that, for me, hope grows stronger when imagination meets development. While Sturdee opened doors to exciting futures, I was left longing for a roadmap—a sense of how to get there.
+But my optimism felt tempered. Hope is one thing, implementation is another. I realised that, for me, hope grows stronger when imagination meets development. While Sturdee opened doors to exciting futures, I was left longing for a roadmap a sense of how to get there.
 
-Still, there was something refreshing about the freedom to imagine without constraints. It made me reflect on how often I get caught up in feasibility—and how sometimes design needs space to breathe before it’s built.
+Still, there was something refreshing about the freedom to imagine without constraints. It made me reflect on how often I get caught up in feasibility and how sometimes design needs space to breathe before it’s built.
 
 #### 4) What key ideas did the speaker highlight, and why are they significant with respect to trends in computing?
 The central themes were design fiction, shape-changing interfaces, AI’s current limitations, and sustainability in design. These are critical trends in HCI and computing, especially as technology becomes more embedded in our lives.
 
 Her emphasis on designing for what could go wrong felt important—it’s a reminder that tech innovation isn’t just about building the next thing but anticipating its risks. That aligns with broader trends like ethical AI, eco-conscious tech, and user-centered interfaces.
 
-But I couldn’t shake the sense that these ideas, while essential, were stuck in the conceptual phase. Where’s the next step? When does the storyboard become the system? That gap felt like the missing link for me.
+But I couldn’t shake the feeling that, as essential as these ideas are, they’re still kind of stuck in the concept stage. Where’s the next step? When does the storyboard actually turn into a working system? That gap between idea and implementation felt like the missing link for me.
 
 To ground this in history, these themes connect to early HCI milestones like the 1982 GaTech Design Conference or ACM SIGCHI's founding in 1983—moments where human experience began shaping computing. Design fiction today builds on that legacy.
 
@@ -73,7 +73,5 @@ While shape-changing tech and nanobots offered intriguing possibilities, they fe
 That’s why, for the assignment, I’m leaning more toward topics like post-quantum cryptography or securing IoT systems—areas where immediate risks exist and tangible solutions are needed. Design fiction might still have a role as a planning tool, helping to visualise potential risks or ethical dilemmas around cybersecurity frameworks. But the core focus for me is on addressing real-world vulnerabilities, not just hypothetical scenarios.
 
 In this sense, Sturdee’s talk might inform how I approach the design phase, but the heart of my project lies in building systems that withstand real threats.
-
-
 
 
