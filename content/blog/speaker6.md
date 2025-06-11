@@ -5,6 +5,7 @@ date: 2025-05-06
 
 --- 
 
+
 #### Brief Summary of the Talk 
  
 The HackMasters talk, led by Saher Sidhom —described as one of the best strategic minds—explored speculative and near-future technologies that blur the lines between AI, ethics, surveillance, and cognitive enhancement. Saher discussed concepts such as downloading the human brain, copying insect neural pathways, and implanting microchips that enable AI to scan our environment and dictate our needs. The talk warned of a future where free will might erode under the control of AI. It also proposed a dystopian world, Mindopoly, where political influence and corporate power exploit implanted prediction chips, raising pressing concerns about manipulation, power, and identity. While the talk itself didn’t focus on the history of computing, it implicitly built on it, pushing us to question what comes next.
@@ -43,6 +44,8 @@ This talk echoed Jake Davis’s concerns about systemic abuse of technology and 
 #### 9) For the assignment, you will present the outline of a future opportunity based on the topics covered in these talks. What ideas from the talk today do you think you could discuss with your groups to use in the assessment? If not using ideas from this talk for the assignment, why not?
 The idea of a political prediction chip could be turned into a speculative artefact for our group project. In this cautionary future, people believe they’re making informed choices, but they’re being algorithmically steered. We could visualise how the UI of such a chip might look, including warnings, false data, and ethical red flags. Even if we don’t use it, this talk offers rich ideas for exploring manipulation, consent, and embedded computing—all through a lens that forces us to revisit what computing was meant to be.
    
+
+
 
 
 

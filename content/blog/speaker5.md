@@ -7,7 +7,7 @@ date: 2025-04-23
 ---
 
 #### Brief Summary of the Talk 
-Jake Davis, formerly known as Topiary, offered a deeply personal account of his time as a member of LulzSec and Anonymous, two of the most well-known hacktivist groups. His talk wasn’t just about hacking in the technical sense but explored the emotional and ethical dimensions of why people hack—especially when confronting corporate and governmental abuses of power. Davis openly acknowledged the legal repercussions of his actions but framed hacking as a form of activism, something I hadn’t fully considered before. His story raised profound questions about justice, power, and the role of hackers in holding authority accountable when traditional systems fail.
+Jake Davis, who used to go by the name Topiary, gave a really personal and honest talk about his time in LulzSec and Anonymous two of the most infamous hacktivist groups out there. What stood out to me was that it wasn’t just a talk about hacking from a technical angle. He delved into the emotional and ethical reasons behind why people choose to hack, especially when it’s in response to power being misused by governments or major corporations. He was upfront about the legal consequences he faced, but also framed hacking as a form of activism—something I hadn’t seriously considered before. It really got me thinking about what justice actually looks like, who holds power in our systems, and whether hackers might have a role in calling out or challenging authority when traditional routes fail to deliver accountability.
 
 What struck me, watching this talk straight after the IBM quantum computing session, was how these two worlds felt like polar opposites—one about cutting-edge technology and securing the future, the other about challenging current systems when they fail us. And yet, the more I reflected, the more I realised they were two sides of the same coin. Quantum computing could either empower or oppress—depending on who controls it. Hackers like Davis? They make sure we don’t forget that.
 
@@ -28,10 +28,9 @@ I imagine he’d say that the current legal system is too rigid—that it doesn�
 
 In future, I’d like to explore work like Gabriella Coleman’s ethnography on Anonymous and legal proposals around responsible disclosure, to understand how intent and harm are weighed in policy debates.
 
-#### 3) What made you optimisitc about the future from this talk?
-Surprisingly, this talk filled me with a quiet sense of hope. Seeing how Davis transformed his skills from causing disruption to advocating for ethical hacking showed me that people can change. More importantly, it proved that hacking itself isn’t inherently bad—it’s a tool, and like any tool, it can be used to harm or to protect.
-
-What makes me feel hopeful is the growing recognition of ethical hacking as a legitimate, even essential, part of cybersecurity. The rise of bug bounty programs, ethical hacker certifications, and collaborations between companies and hackers shows that the world is slowly embracing this mindset.
+#### 3) What made you optimistic about the future from this talk?
+Surprisingly, I came away from this talk with a quiet sense of hope. Hearing how Davis shifted from using his skills to disrupt, to now advocating for ethical hacking, reminded me that people really can change. More than that, it made me realise that hacking itself isn’t the problem—it’s just a tool. And like any tool, it depends on how it’s used. It can cause harm, but it can also be used to protect and defend.
+What makes me feel genuinely hopeful is how ethical hacking is starting to be recognised as not just valid, but actually essential to cybersecurity. The growing number of bug bounty programs, ethical hacking certifications, and partnerships between hackers and companies suggests that this mindset is slowly becoming the norm—and that’s a shift I find really encouraging.
 
 I realised that activism and cybersecurity don’t have to be opposites. In fact, they can and should intersect—because systems aren’t neutral. They’re built by people, for people, and ethical hackers ensure those systems serve everyone, not just the powerful.
 
@@ -42,7 +41,7 @@ This made me think about Dr Gardham’s focus on cryptography—he talked about 
 
 Both talks underscored the need for holistic security—technical and ethical. It’s not enough to lock down data with cryptography if the power structures around that data remain exploitative.
 
-Thinking about this in the context of the IBM quantum talk, I realised that hackers will play a critical role in testing quantum systems too. As quantum encryption rolls out (something IBM is working hard on), hackers will be the ones probing it, ensuring it holds up in the real world. Just as Davis exposed the flaws in existing structures, future hackers will be testing the limits of quantum cryptography. This ties Gardham’s post-quantum focus and IBM’s quantum development to Davis’s activist approach. It made me ask: If we’re building quantum systems, who will hold them accountable?
+Thinking about this in the context of the IBM quantum talk, I realised that hackers will play a critical role in testing quantum systems, too. As quantum encryption rolls out (something IBM is working hard on), hackers will be the ones probing it, ensuring it holds up in the real world. Just as Davis exposed the flaws in existing structures, future hackers will be testing the limits of quantum cryptography. This ties Gardham’s post-quantum focus and IBM’s quantum development to Davis’s activist approach. It made me ask: If we’re building quantum systems, who will hold them accountable?
 
 This echoes historical moments in hacking, like the release of the first “white hat” hacking tools in the late 1980s or the formation of the Electronic Frontier Foundation in 1990. As systems grow more complex, hackers have continually played the role of early warning systems.
 
@@ -58,7 +57,7 @@ I agreed with Jake’s belief that hacktivism is necessary in a world where powe
 
 I believe that activism matters most when traditional systems fail. Without groups like Anonymous, many injustices would stay hidden. And yet, I still wrestle with the methods they use. While I admire the courage it takes to challenge power, I worry about collateral damage—innocent people caught in the middle of cyber attacks.
 
-But then I ask myself: If not them, who? Who holds the powerful accountable when laws protect corporations more than people? My belief is that hacktivism is needed, but it should be done with conscience—a fight for justice, not revenge.
+But then I ask myself: If not them, who? Who holds the powerful accountable when laws protect corporations more than people? My belief is that hacktivism is needed, but it should be done with a conscience, a fight for justice, not revenge.
 
 #### 7) What role do you think the technology or concepts from this talk could play in influencing society in future?
 I believe hacktivism will increasingly shape digital rights. As corporate influence grows and governments expand surveillance, we’ll need ethical hackers to push back, defend privacy and expose abuse. This complements Gardham’s work on encryption—while he protects data at a technical level, hackers ensure that the systems around that data aren’t abused.
@@ -74,7 +73,7 @@ Compared to Charter, this talk felt like the flip side of scalability. Charter b
 
 With Sturdee, the contrast is clearer. She visualised problems, and Davis acted on them. Both are valid approaches, but Davis’s story hit me emotionally—because it felt urgent, real, and human.
 
-This interplay between quantum security and hacktivism created a bridge between Davis’s talk and the IBM session. Where IBM is building the future of cryptography, Davis’s world ensures it stays honest. Hackers like him will pressure-test those quantum systems, finding new vulnerabilities we haven’t even imagined yet. Both Gardham and IBM spoke about post-quantum encryption, but Davis’s talk made me wonder—will that ever truly be enough? Or will activists always find a way in, because no system is perfect?
+This interplay between quantum security and hacktivism created a bridge between Davis’s talk and the IBM session. Where IBM is building the future of cryptography, Davis’s world ensures it stays honest. Hackers like him will pressure-test those quantum systems, finding new vulnerabilities we haven’t even imagined yet. Both Gardham and IBM spoke about post-quantum encryption, but Davis’s talk made me wonder—will that ever truly be enough? Or will activists always find a way in because no system is perfect?
 
 #### 9) For the assignment, you will present the outline of a future opportunity based on the topics covered in these talks. What ideas from the talk today do you think you could discuss with your groups to use in the assessment? If not using ideas from this talk for the assignment, why not?
 
