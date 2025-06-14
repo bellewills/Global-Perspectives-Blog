@@ -37,8 +37,8 @@ https://artslondon-my.sharepoint.com/:f:/g/personal/b_williams0220232_arts_ac_uk
 
 ## References
 
-#### Web Tools, AI Platforms
-OpenAI. (2025) ChatGPT. Available at: https://chat.openai.com/ [Accessed Jun. 2025].
+#### Web Tools, AI Platforms for video making
+OpenAI. (2025) ChatGPT. AI Image Generation Available at: https://chat.openai.com/ [Accessed Jun. 2025].
 
 Runway. (2025) Runway ML – AI Video and Image Generation. Available at: https://runwayml.com/ [Accessed Jun. 2025].
 
