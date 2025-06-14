@@ -32,3 +32,50 @@ If we were to improve one element, it would be the backend logic. While the user
 In the end, our whole project was shaped not only by the talks we attended but also by our shared curiosity about autonomy, control, and the future of ethics in technology. The world we created is speculative, yet it is rooted in genuine concerns, existing technologies, and trends that are already starting to take shape around us.
 
 ## Link To The Video
+
+https://artslondon-my.sharepoint.com/:f:/r/personal/b_williams0220232_arts_ac_uk/Documents/Global%20Perspectives%20Presentation%20Video?csf=1&web=1&e=o5Z3gZ
+
+## References
+
+#### Web Tools, AI Platforms
+OpenAI. (2025) ChatGPT. Available at: https://chat.openai.com/ [Accessed Jun. 2025].
+
+Runway. (2025) Runway ML – AI Video and Image Generation. Available at: https://runwayml.com/ [Accessed Jun. 2025].
+
+Synthesia. (2025) AI Video Generation Platform. Available at: https://www.synthesia.io/ [Accessed Jun. 2025].
+
+
+Canva. (n.d.) Canva – Free AI Image Generator & Design Platform. Available at: https://www.canva.com/ (Accessed: June 2025).
+
+#### Videos and Images
+
+@kathfilms. (2024) Why AI will change everything [YouTube video]. Available at: https://www.youtube.com/watch?v=ORFbD_3QGmw [Accessed  Jun. 2025].
+
+@runwayml. (2024) Runway Gen-2: Video from text [YouTube video]. Available at: https://www.youtube.com/watch?v=jR0o9tMClfQ [Accessed  Jun. 2025].
+
+@corridorcrew. (2024) Using AI to fake a movie scene [YouTube video]. Available at: https://www.youtube.com/watch?v=dubsebsdZtg [Accessed  Jun. 2025].
+
+@marcdelamothe. (2024) AI video generation explained [YouTube video]. Available at: https://www.youtube.com/watch?v=GUojlOw4g4A [Accessed  Jun. 2025].
+
+@kalvisuals. (2024) How to use AI for storytelling [YouTube video]. Available at: https://www.youtube.com/watch?v=OwGCDpppNo4 [Accessed  Jun. 2025].
+
+@dramaedu. (2024) AI and media education [YouTube video]. Available at: https://www.youtube.com/watch?v=bvdQZxELxhQ [Accessed  Jun. 2025].
+
+@openai. (2024) ChatGPT Vision – How it works [YouTube video]. Available at: https://www.youtube.com/watch?v=nEsMOKNqzk8 [Accessed  Jun. 2025].
+
+@FutureTools. (2024) Best AI tools for creators [YouTube video]. Available at: https://www.youtube.com/watch?v=7xjqny9LHqQ [Accessed  Jun. 2025].
+
+@Techvision. (2024) Top AI innovations in 2024 [YouTube video]. Available at: https://www.youtube.com/watch?v=AJWP1NqJwT0 [Accessed Jun. 2025].
+
+@towardsai. (2024) What is Generative AI? [YouTube video]. Available at: https://www.youtube.com/watch?v=YreDYmXTYi4 [Accessed Jun. 2025].
+
+TEDxTALKS (2018) How We Hack The Planet, Jake Davis [YouTube video]. Available at: https://www.youtube.com/watch?v=75gNBrZH2WA [Accessed 23 Apr. 2025]. 
+
+Adobe Stock. (n.d.) Stock Photos, Royalty-Free Images, Graphics, and Videos. Available at: https://stock.adobe.com/ (Accessed: June 2025).
+
+Stock Image and Video Platforms
+Pexels. (2025) Free Stock Photos & Videos. Available at: https://www.pexels.com/ [Accessed Jun. 2025].
+
+Pixabay. (2025) Free Images and Royalty-Free Stock. Available at: https://pixabay.com/ [Accessed Jun. 2025].
+
+Y2Mate. (2025) YouTube Video Downloader. Available at: https://en.y2mate.is/yt-102/ [Accessed Jun. 2025].
