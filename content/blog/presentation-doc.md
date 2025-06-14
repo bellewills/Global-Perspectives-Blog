@@ -33,7 +33,7 @@ In the end, our whole project was shaped not only by the talks we attended but a
 
 ## Link To The Video
 
-https://artslondon-my.sharepoint.com/:f:/r/personal/b_williams0220232_arts_ac_uk/Documents/Global%20Perspectives%20Presentation%20Video?csf=1&web=1&e=o5Z3gZ
+https://artslondon-my.sharepoint.com/:f:/g/personal/b_williams0220232_arts_ac_uk/EsQXtxJ-vWpGrBrzU5TU7KABIgXCsS6lGvSbwtMOlaCprw?email=c.ford%40arts.ac.uk&e=LtoN3b
 
 ## References
 
