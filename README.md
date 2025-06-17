@@ -47,6 +47,18 @@ Easy.
 Thanks to other templates that inspired this theme.
 
 - [Official Astro Blog template](https://github.com/withastro/astro/tree/main/examples/blog)
+
+
+Copied Template from UAL CCI Computer Science - Corey's. 
+
+## How to run the blog: 
+
+Clone this git repo 
+Open in VS Code
+npm install 
+npm run dev 
+Then open hostlocal link in browser 
+
 - [Bear Blog](https://github.com/HermanMartinus/bearblog/).
 
 ## License
